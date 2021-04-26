@@ -1,0 +1,296 @@
+UNIQUE_ID,NOME,REGIAO,UF,ESTADO
+4206009,Governador Celso Ramos,Grande Florianópolis,SC,Santa Catarina
+4212304,Paulo Lopes,Grande Florianópolis,SC,Santa Catarina
+4217253,São Pedro de Alcântara,Grande Florianópolis,SC,Santa Catarina
+4218004,Tijucas,Grande Florianópolis,SC,Santa Catarina
+4216602,São José,Grande Florianópolis,SC,Santa Catarina
+4203709,Canelinha,Grande Florianópolis,SC,Santa Catarina
+4210209,Major Gercino,Grande Florianópolis,SC,Santa Catarina
+4216305,São João Batista,Grande Florianópolis,SC,Santa Catarina
+4202305,Biguaçu,Grande Florianópolis,SC,Santa Catarina
+4201208,Antônio Carlos,Grande Florianópolis,SC,Santa Catarina
+4201109,Anitápolis,Grande Florianópolis,SC,Santa Catarina
+4215703,Santo Amaro da Imperatriz,Grande Florianópolis,SC,Santa Catarina
+4215901,São Bonifácio,Grande Florianópolis,SC,Santa Catarina
+4214300,Rancho Queimado,Grande Florianópolis,SC,Santa Catarina
+4211504,Nova Trento,Grande Florianópolis,SC,Santa Catarina
+4205407,Florianópolis,Grande Florianópolis,SC,Santa Catarina
+4200903,Angelina,Grande Florianópolis,SC,Santa Catarina
+4200606,Águas Mornas,Grande Florianópolis,SC,Santa Catarina
+4211900,Palhoça,Grande Florianópolis,SC,Santa Catarina
+4209805,Leoberto Leal,Grande Florianópolis,SC,Santa Catarina
+4200705,Alfredo Wagner,Grande Florianópolis,SC,Santa Catarina
+4205803,Garuva,Norte Catarinense,SC,Santa Catarina
+4217402,Schroeder,Norte Catarinense,SC,Santa Catarina
+4215000,Rio Negrinho,Norte Catarinense,SC,Santa Catarina
+4206504,Guaramirim,Norte Catarinense,SC,Santa Catarina
+4208906,Jaraguá do Sul,Norte Catarinense,SC,Santa Catarina
+4203303,Campo Alegre,Norte Catarinense,SC,Santa Catarina
+4216206,São Francisco do Sul,Norte Catarinense,SC,Santa Catarina
+4208450,Itapoá,Norte Catarinense,SC,Santa Catarina
+4215802,São Bento do Sul,Norte Catarinense,SC,Santa Catarina
+4204509,Corupá,Norte Catarinense,SC,Santa Catarina
+4203808,Canoinhas,Norte Catarinense,SC,Santa Catarina
+4213609,Porto União,Norte Catarinense,SC,Santa Catarina
+4208104,Itaiópolis,Norte Catarinense,SC,Santa Catarina
+4207908,Irineópolis,Norte Catarinense,SC,Santa Catarina
+4215679,Santa Terezinha,Norte Catarinense,SC,Santa Catarina
+4209102,Joinville,Norte Catarinense,SC,Santa Catarina
+4202131,Bela Vista do Toldo,Norte Catarinense,SC,Santa Catarina
+4218251,Timbó Grande,Norte Catarinense,SC,Santa Catarina
+4202057,Balneário Barra do Sul,Norte Catarinense,SC,Santa Catarina
+4211108,Monte Castelo,Norte Catarinense,SC,Santa Catarina
+4210100,Mafra,Norte Catarinense,SC,Santa Catarina
+4210308,Major Vieira,Norte Catarinense,SC,Santa Catarina
+4212205,Papanduva,Norte Catarinense,SC,Santa Catarina
+4218301,Três Barras,Norte Catarinense,SC,Santa Catarina
+4210605,Massaranduba,Norte Catarinense,SC,Santa Catarina
+4201307,Araquari,Norte Catarinense,SC,Santa Catarina
+4214201,Quilombo,Oeste Catarinense,SC,Santa Catarina
+4210902,Modelo,Oeste Catarinense,SC,Santa Catarina
+4207601,Ipira,Oeste Catarinense,SC,Santa Catarina
+4212106,Palmitos,Oeste Catarinense,SC,Santa Catarina
+4214151,Princesa,Oeste Catarinense,SC,Santa Catarina
+4207650,Iporã do Oeste,Oeste Catarinense,SC,Santa Catarina
+4207577,Iomerê,Oeste Catarinense,SC,Santa Catarina
+4213906,Presidente Castello Branco,Oeste Catarinense,SC,Santa Catarina
+4211009,Mondaí,Oeste Catarinense,SC,Santa Catarina
+4212007,Palma Sola,Oeste Catarinense,SC,Santa Catarina
+4214409,Rio das Antas,Oeste Catarinense,SC,Santa Catarina
+4206801,Ibicaré,Oeste Catarinense,SC,Santa Catarina
+4206751,Ibiam,Oeste Catarinense,SC,Santa Catarina
+4206702,Herval d'Oeste,Oeste Catarinense,SC,Santa Catarina
+4211876,Paial,Oeste Catarinense,SC,Santa Catarina
+4206652,Guatambú,Oeste Catarinense,SC,Santa Catarina
+4211405,Nova Erechim,Oeste Catarinense,SC,Santa Catarina
+4206603,Guarujá do Sul,Oeste Catarinense,SC,Santa Catarina
+4211454,Nova Itaberaba,Oeste Catarinense,SC,Santa Catarina
+4206405,Guaraciaba,Oeste Catarinense,SC,Santa Catarina
+4215075,Riqueza,Oeste Catarinense,SC,Santa Catarina
+4211850,Ouro Verde,Oeste Catarinense,SC,Santa Catarina
+4207684,Ipuaçu,Oeste Catarinense,SC,Santa Catarina
+4207700,Ipumirim,Oeste Catarinense,SC,Santa Catarina
+4210704,Matos Costa,Oeste Catarinense,SC,Santa Catarina
+4207809,Irani,Oeste Catarinense,SC,Santa Catarina
+4219705,Xaxim,Oeste Catarinense,SC,Santa Catarina
+4212270,Passos Maia,Oeste Catarinense,SC,Santa Catarina
+4212601,Peritiba,Oeste Catarinense,SC,Santa Catarina
+4209458,Lajeado Grande,Oeste Catarinense,SC,Santa Catarina
+4212908,Pinhalzinho,Oeste Catarinense,SC,Santa Catarina
+4212239,Paraíso,Oeste Catarinense,SC,Santa Catarina
+4213005,Pinheiro Preto,Oeste Catarinense,SC,Santa Catarina
+4210035,Luzerna,Oeste Catarinense,SC,Santa Catarina
+4209201,Lacerdópolis,Oeste Catarinense,SC,Santa Catarina
+4209177,Jupiá,Oeste Catarinense,SC,Santa Catarina
+4213104,Piratuba,Oeste Catarinense,SC,Santa Catarina
+4207759,Iraceminha,Oeste Catarinense,SC,Santa Catarina
+4215208,Romelândia,Oeste Catarinense,SC,Santa Catarina
+4208955,Jardinópolis,Oeste Catarinense,SC,Santa Catarina
+4213153,Planalto Alegre,Oeste Catarinense,SC,Santa Catarina
+4210050,Macieira,Oeste Catarinense,SC,Santa Catarina
+4208609,Jaborá,Oeste Catarinense,SC,Santa Catarina
+4208401,Itapiranga,Oeste Catarinense,SC,Santa Catarina
+4213401,Ponte Serrada,Oeste Catarinense,SC,Santa Catarina
+4210506,Maravilha,Oeste Catarinense,SC,Santa Catarina
+4210555,Marema,Oeste Catarinense,SC,Santa Catarina
+4208005,Itá,Oeste Catarinense,SC,Santa Catarina
+4209854,Lindóia do Sul,Oeste Catarinense,SC,Santa Catarina
+4207858,Irati,Oeste Catarinense,SC,Santa Catarina
+4209003,Joaçaba,Oeste Catarinense,SC,Santa Catarina
+4209706,Lebon Régis,Oeste Catarinense,SC,Santa Catarina
+4205357,Flor do Sertão,Oeste Catarinense,SC,Santa Catarina
+4215406,Salto Veloso,Oeste Catarinense,SC,Santa Catarina
+4202099,Barra Bonita,Oeste Catarinense,SC,Santa Catarina
+4217956,Tigrinhos,Oeste Catarinense,SC,Santa Catarina
+4202156,Belmonte,Oeste Catarinense,SC,Santa Catarina
+4217907,Tangará,Oeste Catarinense,SC,Santa Catarina
+4217758,Sul Brasil,Oeste Catarinense,SC,Santa Catarina
+4217550,Serra Alta,Oeste Catarinense,SC,Santa Catarina
+4202081,Bandeirante,Oeste Catarinense,SC,Santa Catarina
+4217501,Seara,Oeste Catarinense,SC,Santa Catarina
+4202578,Bom Jesus do Oeste,Oeste Catarinense,SC,Santa Catarina
+4217303,Saudades,Oeste Catarinense,SC,Santa Catarina
+4217204,São Miguel do Oeste,Oeste Catarinense,SC,Santa Catarina
+4217154,São Miguel da Boa Vista,Oeste Catarinense,SC,Santa Catarina
+4216909,São Lourenço do Oeste,Oeste Catarinense,SC,Santa Catarina
+4215356,Saltinho,Oeste Catarinense,SC,Santa Catarina
+4202537,Bom Jesus,Oeste Catarinense,SC,Santa Catarina
+4203006,Caçador,Oeste Catarinense,SC,Santa Catarina
+4218509,Treze Tílias,Oeste Catarinense,SC,Santa Catarina
+4218855,União do Oeste,Oeste Catarinense,SC,Santa Catarina
+4200101,Abelardo Luz,Oeste Catarinense,SC,Santa Catarina
+4219606,Xavantina,Oeste Catarinense,SC,Santa Catarina
+4219507,Xanxerê,Oeste Catarinense,SC,Santa Catarina
+4200408,Água Doce,Oeste Catarinense,SC,Santa Catarina
+4200507,Águas de Chapecó,Oeste Catarinense,SC,Santa Catarina
+4200556,Águas Frias,Oeste Catarinense,SC,Santa Catarina
+4218756,Tunápolis,Oeste Catarinense,SC,Santa Catarina
+4200754,Alto Bela Vista,Oeste Catarinense,SC,Santa Catarina
+4219309,Videira,Oeste Catarinense,SC,Santa Catarina
+4219176,Vargem Bonita,Oeste Catarinense,SC,Santa Catarina
+4201273,Arabutã,Oeste Catarinense,SC,Santa Catarina
+4219101,Vargeão,Oeste Catarinense,SC,Santa Catarina
+4201604,Arroio Trinta,Oeste Catarinense,SC,Santa Catarina
+4201653,Arvoredo,Oeste Catarinense,SC,Santa Catarina
+4200804,Anchieta,Oeste Catarinense,SC,Santa Catarina
+4203105,Caibi,Oeste Catarinense,SC,Santa Catarina
+4211801,Ouro,Oeste Catarinense,SC,Santa Catarina
+4216701,São José do Cedro,Oeste Catarinense,SC,Santa Catarina
+4215687,Santa Terezinha do Progresso,Oeste Catarinense,SC,Santa Catarina
+4211652,Novo Horizonte,Oeste Catarinense,SC,Santa Catarina
+4205175,Entre Rios,Oeste Catarinense,SC,Santa Catarina
+4215695,Santiago do Sul,Oeste Catarinense,SC,Santa Catarina
+4205001,Dionísio Cerqueira,Oeste Catarinense,SC,Santa Catarina
+4204905,Descanso,Oeste Catarinense,SC,Santa Catarina
+4205431,Formosa do Sul,Oeste Catarinense,SC,Santa Catarina
+4203154,Calmon,Oeste Catarinense,SC,Santa Catarina
+4204756,Cunhataí,Oeste Catarinense,SC,Santa Catarina
+4204707,Cunha Porã,Oeste Catarinense,SC,Santa Catarina
+4215752,São Bernardino,Oeste Catarinense,SC,Santa Catarina
+4204459,Coronel Martins,Oeste Catarinense,SC,Santa Catarina
+4205308,Faxinal dos Guedes,Oeste Catarinense,SC,Santa Catarina
+4204400,Coronel Freitas,Oeste Catarinense,SC,Santa Catarina
+4204301,Concórdia,Oeste Catarinense,SC,Santa Catarina
+4216008,São Carlos,Oeste Catarinense,SC,Santa Catarina
+4204202,Chapecó,Oeste Catarinense,SC,Santa Catarina
+4205506,Fraiburgo,Oeste Catarinense,SC,Santa Catarina
+4216107,São Domingos,Oeste Catarinense,SC,Santa Catarina
+4204103,Caxambu do Sul,Oeste Catarinense,SC,Santa Catarina
+4204004,Catanduvas,Oeste Catarinense,SC,Santa Catarina
+4203907,Capinzal,Oeste Catarinense,SC,Santa Catarina
+4216255,São João do Oeste,Oeste Catarinense,SC,Santa Catarina
+4215554,Santa Helena,Oeste Catarinense,SC,Santa Catarina
+4205605,Galvão,Oeste Catarinense,SC,Santa Catarina
+4203501,Campo Erê,Oeste Catarinense,SC,Santa Catarina
+4204350,Cordilheira Alta,Oeste Catarinense,SC,Santa Catarina
+4205209,Erval Velho,Oeste Catarinense,SC,Santa Catarina
+4211892,Painel,Serrana,SC,Santa Catarina
+4215505,Santa Cecília,Serrana,SC,Santa Catarina
+4218905,Urubici,Serrana,SC,Santa Catarina
+4212056,Palmeira,Serrana,SC,Santa Catarina
+4219150,Vargem,Serrana,SC,Santa Catarina
+4218954,Urupema,Serrana,SC,Santa Catarina
+4216057,São Cristóvão do Sul,Serrana,SC,Santa Catarina
+4216503,São Joaquim,Serrana,SC,Santa Catarina
+4213351,Ponte Alta do Norte,Serrana,SC,Santa Catarina
+4213302,Ponte Alta,Serrana,SC,Santa Catarina
+4215059,Rio Rufino,Serrana,SC,Santa Catarina
+4216800,São José do Cerrito,Serrana,SC,Santa Catarina
+4200051,Abdon Batista,Serrana,SC,Santa Catarina
+4219853,Zortéa,Serrana,SC,Santa Catarina
+4202875,Brunópolis,Serrana,SC,Santa Catarina
+4203253,Capão Alto,Serrana,SC,Santa Catarina
+4204152,Celso Ramos,Serrana,SC,Santa Catarina
+4209300,Lages,Serrana,SC,Santa Catarina
+4202602,Bom Retiro,Serrana,SC,Santa Catarina
+4202503,Bom Jardim da Serra,Serrana,SC,Santa Catarina
+4202438,Bocaina do Sul,Serrana,SC,Santa Catarina
+4204178,Cerro Negro,Serrana,SC,Santa Catarina
+4204558,Correia Pinto,Serrana,SC,Santa Catarina
+4203402,Campo Belo do Sul,Serrana,SC,Santa Catarina
+4203600,Campos Novos,Serrana,SC,Santa Catarina
+4211751,Otacílio Costa,Serrana,SC,Santa Catarina
+4211058,Monte Carlo,Serrana,SC,Santa Catarina
+4205555,Frei Rogério,Serrana,SC,Santa Catarina
+4201000,Anita Garibaldi,Serrana,SC,Santa Catarina
+4204806,Curitibanos,Serrana,SC,Santa Catarina
+4205191,Ermo,Sul Catarinense,SC,Santa Catarina
+4204251,Cocal do Sul,Sul Catarinense,SC,Santa Catarina
+4205456,Forquilhinha,Sul Catarinense,SC,Santa Catarina
+4215653,Santa Rosa do Sul,Sul Catarinense,SC,Santa Catarina
+4215604,Santa Rosa de Lima,Sul Catarinense,SC,Santa Catarina
+4205704,Garopaba,Sul Catarinense,SC,Santa Catarina
+4203956,Capivari de Baixo,Sul Catarinense,SC,Santa Catarina
+4215455,Sangão,Sul Catarinense,SC,Santa Catarina
+4204608,Criciúma,Sul Catarinense,SC,Santa Catarina
+4217006,São Ludgero,Sul Catarinense,SC,Santa Catarina
+4206108,Grão-Pará,Sul Catarinense,SC,Santa Catarina
+4201406,Araranguá,Sul Catarinense,SC,Santa Catarina
+4201505,Armazém,Sul Catarinense,SC,Santa Catarina
+4219002,Urussanga,Sul Catarinense,SC,Santa Catarina
+4218806,Turvo,Sul Catarinense,SC,Santa Catarina
+4201950,Balneário Arroio do Silva,Sul Catarinense,SC,Santa Catarina
+4218707,Tubarão,Sul Catarinense,SC,Santa Catarina
+4218400,Treze de Maio,Sul Catarinense,SC,Santa Catarina
+4218350,Treviso,Sul Catarinense,SC,Santa Catarina
+4202073,Balneário Gaivota,Sul Catarinense,SC,Santa Catarina
+4218103,Timbé do Sul,Sul Catarinense,SC,Santa Catarina
+4220000,Balneário Rincão,Sul Catarinense,SC,Santa Catarina
+4217709,Sombrio,Sul Catarinense,SC,Santa Catarina
+4217600,Siderópolis,Sul Catarinense,SC,Santa Catarina
+4202800,Braço do Norte,Sul Catarinense,SC,Santa Catarina
+4217105,São Martinho,Sul Catarinense,SC,Santa Catarina
+4216404,São João do Sul,Sul Catarinense,SC,Santa Catarina
+4206207,Gravatal,Sul Catarinense,SC,Santa Catarina
+4211702,Orleans,Sul Catarinense,SC,Santa Catarina
+4209409,Laguna,Sul Catarinense,SC,Santa Catarina
+4212403,Pedras Grandes,Sul Catarinense,SC,Santa Catarina
+4209607,Lauro Müller,Sul Catarinense,SC,Santa Catarina
+4208807,Jaguaruna,Sul Catarinense,SC,Santa Catarina
+4208708,Jacinto Machado,Sul Catarinense,SC,Santa Catarina
+4212254,Passo de Torres,Sul Catarinense,SC,Santa Catarina
+4210407,Maracajá,Sul Catarinense,SC,Santa Catarina
+4210803,Meleiro,Sul Catarinense,SC,Santa Catarina
+4212650,Pescaria Brava,Sul Catarinense,SC,Santa Catarina
+4211207,Morro da Fumaça,Sul Catarinense,SC,Santa Catarina
+4207304,Imbituba,Sul Catarinense,SC,Santa Catarina
+4207205,Imaruí,Sul Catarinense,SC,Santa Catarina
+4213807,Praia Grande,Sul Catarinense,SC,Santa Catarina
+4214904,Rio Fortuna,Sul Catarinense,SC,Santa Catarina
+4211603,Nova Veneza,Sul Catarinense,SC,Santa Catarina
+4207007,Içara,Sul Catarinense,SC,Santa Catarina
+4211256,Morro Grande,Sul Catarinense,SC,Santa Catarina
+4202404,Blumenau,Vale do Itajaí,SC,Santa Catarina
+4217808,Taió,Vale do Itajaí,SC,Santa Catarina
+4202206,Benedito Novo,Vale do Itajaí,SC,Santa Catarina
+4202107,Barra Velha,Vale do Itajaí,SC,Santa Catarina
+4200200,Agrolândia,Vale do Itajaí,SC,Santa Catarina
+4200309,Agronômica,Vale do Itajaí,SC,Santa Catarina
+4219408,Witmarsum,Vale do Itajaí,SC,Santa Catarina
+4218202,Timbó,Vale do Itajaí,SC,Santa Catarina
+4212809,Balneário Piçarras,Vale do Itajaí,SC,Santa Catarina
+4211306,Navegantes,Vale do Itajaí,SC,Santa Catarina
+4210001,Luiz Alves,Vale do Itajaí,SC,Santa Catarina
+4202008,Balneário Camboriú,Vale do Itajaí,SC,Santa Catarina
+4218608,Trombudo Central,Vale do Itajaí,SC,Santa Catarina
+4219358,Vitor Meireles,Vale do Itajaí,SC,Santa Catarina
+4219200,Vidal Ramos,Vale do Itajaí,SC,Santa Catarina
+4210852,Mirim Doce,Vale do Itajaí,SC,Santa Catarina
+4201901,Aurora,Vale do Itajaí,SC,Santa Catarina
+4201802,Atalanta,Vale do Itajaí,SC,Santa Catarina
+4201703,Ascurra,Vale do Itajaí,SC,Santa Catarina
+4201257,Apiúna,Vale do Itajaí,SC,Santa Catarina
+4209904,Lontras,Vale do Itajaí,SC,Santa Catarina
+4212502,Penha,Vale do Itajaí,SC,Santa Catarina
+4206306,Guabiruba,Vale do Itajaí,SC,Santa Catarina
+4212700,Petrolândia,Vale do Itajaí,SC,Santa Catarina
+4215307,Salete,Vale do Itajaí,SC,Santa Catarina
+4206900,Ibirama,Vale do Itajaí,SC,Santa Catarina
+4205902,Gaspar,Vale do Itajaí,SC,Santa Catarina
+4214706,Rio dos Cedros,Vale do Itajaí,SC,Santa Catarina
+4214805,Rio do Sul,Vale do Itajaí,SC,Santa Catarina
+4214607,Rio do Oeste,Vale do Itajaí,SC,Santa Catarina
+4214508,Rio do Campo,Vale do Itajaí,SC,Santa Catarina
+4207106,Ilhota,Vale do Itajaí,SC,Santa Catarina
+4205159,Doutor Pedrinho,Vale do Itajaí,SC,Santa Catarina
+4207403,Imbuia,Vale do Itajaí,SC,Santa Catarina
+4214102,Presidente Nereu,Vale do Itajaí,SC,Santa Catarina
+4214003,Presidente Getúlio,Vale do Itajaí,SC,Santa Catarina
+4204194,Chapadão do Lageado,Vale do Itajaí,SC,Santa Catarina
+4209508,Laurentino,Vale do Itajaí,SC,Santa Catarina
+4207502,Indaial,Vale do Itajaí,SC,Santa Catarina
+4216354,São João do Itaperiú,Vale do Itajaí,SC,Santa Catarina
+4208203,Itajaí,Vale do Itajaí,SC,Santa Catarina
+4213500,Porto Belo,Vale do Itajaí,SC,Santa Catarina
+4208302,Itapema,Vale do Itajaí,SC,Santa Catarina
+4208500,Ituporanga,Vale do Itajaí,SC,Santa Catarina
+4203204,Camboriú,Vale do Itajaí,SC,Santa Catarina
+4202909,Brusque,Vale do Itajaí,SC,Santa Catarina
+4213203,Pomerode,Vale do Itajaí,SC,Santa Catarina
+4202859,Braço do Trombudo,Vale do Itajaí,SC,Santa Catarina
+4209151,José Boiteux,Vale do Itajaí,SC,Santa Catarina
+4202701,Botuverá,Vale do Itajaí,SC,Santa Catarina
+4202453,Bombinhas,Vale do Itajaí,SC,Santa Catarina
+4215109,Rodeio,Vale do Itajaí,SC,Santa Catarina
+4213708,Pouso Redondo,Vale do Itajaí,SC,Santa Catarina
+4205100,Dona Emma,Vale do Itajaí,SC,Santa Catarina
